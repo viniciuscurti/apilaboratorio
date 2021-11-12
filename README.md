@@ -1,6 +1,9 @@
 Documentacao Api
 Descricao de como enviar requisicoes api para obter respostas completa do CRUD
 
+docker-compose up para iniciar todas as dependencias necessarias.
+
+
 POST
 Create - Laboratorio
 
